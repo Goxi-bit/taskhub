@@ -1,5 +1,8 @@
 # TaskHub
 
+- Live Demo: https://taskhub-gilt.vercel.app/
+- Repo: https://github.com/Goxi-bit/taskhub
+
 A minimal task manager built with **React (Vite)** + **Supabase** (Auth + Postgres + RLS).
 Includes GitHub OAuth login and persistent tasks per user.
 
